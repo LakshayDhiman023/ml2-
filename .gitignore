@@ -1,0 +1,10 @@
+checkpoints/
+__pycache__/
+DAVIS-2017-trainval-480p/
+predictions/
+results/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
